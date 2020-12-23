@@ -5,7 +5,6 @@ So everytime you reload the page the random values are generated and you will ha
 
 ## Deployment
 [Project](https://ravi1998-source.github.io/Simon-Game/)
-https://ravi1998-source.github.io/Dice-Challenge/
 ![Alt text](https://github.com/rosajen27/simon/blob/master/imgs/demo.png)
 
 ## Built With
